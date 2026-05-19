@@ -44,8 +44,8 @@ todo-task-list/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/todo-task-list.git
-cd todo-task-list
+git clone https://github.com/yourusername/decodelabs_tasks.git
+cd decodelabs_tasks
 ```
 
 ### 2. Install dependencies
@@ -57,7 +57,7 @@ pip install customtkinter
 ### 3. Run the application
 
 ```bash
-python main.py
+python todo_app.py
 ```
 
 ---
