@@ -73,19 +73,6 @@ This project uses a claymorphism-inspired design system with:
 
 ---
 
-## 📚 What I Learned
-
-This project helped improve my understanding of:
-
-* GUI development in Python
-* CustomTkinter framework
-* File handling with JSON
-* State management
-* User experience design
-* Component-based UI structuring
-
----
-
 ## 👨‍💻 Author
 
 Developed by RK during a Python Programming Internship at Decodelabs.
